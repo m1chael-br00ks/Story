@@ -1,0 +1,19 @@
+# IntelliJ / PyCharm files
+.idea/
+
+# Rio sidecar files
+.sidecar.d/
+sidecars/
+sidecars/.sidecar.d/*
+
+# DS_Stores
+.DS_Store
+
+# ignore beacon/web/app_http.py in order to hack the ssl_context
+beacon/web/app_http.py
+
+#secrets
+secrets.txt
+secrets_two.txt
+
+
